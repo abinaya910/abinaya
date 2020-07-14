@@ -1,0 +1,10 @@
+a=["abc","def","ghi","jkl"]
+a.append("mno")
+print(a)
+b=("lap", "mobile", "headset","jack", "keyboard")
+c=b[1]
+print(c)
+dic={"bat":123,"ball":456,"stump":789}
+print(dic)
+dic.pop("bat")
+print(dic)
